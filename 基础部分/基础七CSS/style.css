@@ -19,12 +19,12 @@ a {
     content:"";
     display:table; 
   }
-  .clearfix:after {
+  .clearfix::after {
     clear:both;
   }
-  .clearfix {
+  /* .clearfix {
      *zoom:1;
-  }   
+  }    */
  
 .header {
     height: 42px;
