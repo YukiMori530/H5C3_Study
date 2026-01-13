@@ -22,9 +22,9 @@ a {
   .clearfix:after {
     clear:both;
   }
-  .clearfix {
+  /* .clearfix {
      *zoom:1;
-  }   
+  }    */
  
 .header {
     height: 42px;
